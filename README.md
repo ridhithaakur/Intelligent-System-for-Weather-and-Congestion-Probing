@@ -1,0 +1,1 @@
+Developed a system to predict the next day’s weather and the effect of weather fluctuations on the commute time. Implemented ARIMA and RNN-LSTM models to compare the accuracy of the weather prediction. Employed KNN to get the commute time after training on the past data and the next day’s temperature from the ARIMA model.
